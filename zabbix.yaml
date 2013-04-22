@@ -1,0 +1,4 @@
+---
+:zabbix_server: 'localhost'
+:zabbix_port: 10015
+:failed_run_key: puppet_run_failed
