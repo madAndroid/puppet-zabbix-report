@@ -1,6 +1,8 @@
 puppet-zabbix
 ==============
 
+NB NB NB NB - CURRENTLY UNTESTED
+
 Description
 -----------
 
